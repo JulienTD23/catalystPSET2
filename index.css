@@ -1,0 +1,67 @@
+#l1 {
+    color:red;
+}
+#l2 {
+    background-color: yellow;
+}
+
+.stooge {
+    color:blue;
+}
+
+#l4_green {
+    color:green;
+}
+
+.l4 {
+    color:red
+}
+
+.l5{
+    font-family:sans-serif;
+}
+
+.l5:first-child {
+    font-family: serif;
+}
+
+.l5:last-child {
+    font-family: monospace;
+}
+
+#l6 {
+    border: solid;
+    border-color: yellow;
+    border-width: thick;
+    width: 200px;
+}
+
+.l7 {
+    display: inline;
+}
+
+#l8_top {
+    margin-bottom: 20px;
+}
+
+#yale_button {
+    background-color: blue;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+}
+
+#yale_button:hover {
+    background-color: red;
+}
+
+#l12_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
